@@ -9,19 +9,6 @@ This document contains highly attractive, conversion-optimized descriptions of t
 
 ---
 
-## 📝 Short Description (Ideal for Twitter / X, LinkedIn Intro, Meta Description)
-Stop coding from scratch! 🛑 **AI Website Builder** transforms your text prompts into production-ready websites in seconds. Powered by Gemini Flash 2.0, Next.js, and Tailwind CSS, it features real-time code generation and a live preview. No coding experience required—just describe your vision and watch it come to life! ✨ 
-
----
-
-## 📰 Medium Description (Ideal for Product Hunt, App Directories, GitHub About)
-Introducing **AI Website Builder**—the ultimate tool for turning ideas into reality. Whether you are a seasoned developer looking to speed up your workflow or a beginner with no coding background, our platform empowers you to create beautiful, responsive, and functional websites instantly. 
-
-Powered by the lightning-fast **Gemini Flash 2.0 AI**, this builder understands your natural language instructions and outputs clean, modern React/Next.js code styled with Tailwind CSS. With features like **Real-time Code Generation**, **In-built Live Previews**, and **Smart Component Synthesis**, building your next landing page or SaaS dashboard has never been this magical. 🚀
-
----
-
-## 📜 Long Description (Ideal for Blog Posts, Newsletters, Press Releases)
 ### **Revolutionize Web Development with AI Website Builder**
 
 Web development used to mean hours of writing boilerplate code, tweaking CSS classes, and debugging UI components. Not anymore. 
@@ -47,4 +34,4 @@ Whether you're prototyping an MVP, building a portfolio, or launching a massive 
 - **Designers:** Turn your creative visions into functional code instantly.
 
 ---
-*Developed by Naitik Pawar*
+*Developed by Naitik Pawar & Saikumar Madel*
